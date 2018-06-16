@@ -1,0 +1,74 @@
+{
+  "name": "pandabot",
+  "version": "8.11.1",
+  "dependencies": {
+    "async-limiter": {
+      "integrity": "sha512-jp/uFnooOiO+L211eZOoSyzpOITMXx1rBITauYykG3BRYPu8h0UcxsPNB04RR5vo4Tyz3+ay17tR6JVf9qzYWg==",
+      "resolved": "https://registry.npmjs.org/async-limiter/-/async-limiter-1.0.0.tgz",
+      "version": "1.0.0"
+    },
+    "discord.js": "^11.3.2",
+    "fortnite": "^4.1.1",
+    "fs": "0.0.1-security",
+    "long": {
+      "integrity": "sha512-XsP+KhQif4bjX1kbuSiySJFNAehNxgLb6hPRGJ9QsUr8ajHkuXGdrHmFUTUUXhDwVX2R5bY4JNZEwbUiMhV+MA==",
+      "resolved": "https://registry.npmjs.org/long/-/long-4.0.0.tgz",
+      "version": "4.0.0"
+    },
+    "ms": "^2.1.1",
+    "prism-media": {
+      "integrity": "sha512-L6yc8P5NVG35ivzvfI7bcTYzqFV+K8gTfX9YaJbmIFfMXTs71RMnAupvTQPTCteGsiOy9QcNLkQyWjAafY/hCQ==",
+      "resolved": "https://registry.npmjs.org/prism-media/-/prism-media-0.0.2.tgz",
+      "version": "0.0.2"
+    },
+    "profanities": "^2.6.0",
+    "quick.db": "^6.3.1",
+    "random-puppy": "^1.1.0",
+    "safe-buffer": {
+      "integrity": "sha512-Gd2UZBJDkXlY7GbJxfsE8/nvKkUEU1G38c1siN6QP6a9PT9MmHB8GnpscSmMJSoF8LOIrt8ud/wPtojys4G6+g==",
+      "resolved": "https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.1.2.tgz",
+      "version": "5.1.2"
+    },
+    "semver": {
+      "integrity": "sha512-4SJ3dm0WAwWy/NVeioZh5AntkdJoWKxHxcmyP622fOkgHa4z3R0TdBJICINyaSDE6uNwVc8gZr+ZinwZAH4xIA==",
+      "resolved": "https://registry.npmjs.org/semver/-/semver-5.5.0.tgz",
+      "version": "5.5.0"
+    },
+    "snekfetch": "^4.0.2",
+    "superagent": "^3.8.3",
+    "tweetnacl": {
+      "integrity": "sha1-cT2LgY2kIGh0C/aDhtBHnmb8ins=",
+      "resolved": "https://registry.npmjs.org/tweetnacl/-/tweetnacl-1.0.0.tgz",
+      "version": "1.0.0"
+    },
+    "weather-js": "^2.0.0",
+    "ws": {
+      "integrity": "sha512-ZGh/8kF9rrRNffkLFV4AzhvooEclrOH0xaugmqGsIfFgOE/pIz4fMc4Ef+5HSQqTEug2S9JZIWDR47duDSLfaA==",
+      "requires": {
+        "async-limiter": "1.0.0",
+        "safe-buffer": "5.1.2"
+      },
+      "resolved": "https://registry.npmjs.org/ws/-/ws-4.1.0.tgz",
+      "version": "4.1.0"
+    }
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BravooZ/pandabot1337.git"
+  },
+  "keywords": [
+    "bravo1337"
+  ],
+  "author": "BravooZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BravooZ/pandabot1337/issues"
+  },
+  "homepage": "https://github.com/BravooZ/pandabot1337#readme",
+  "description": ""
+}
